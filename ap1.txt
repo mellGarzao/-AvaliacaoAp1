@@ -2,3 +2,16 @@ git clone (Clonar um repositório remoto para um local)
 git add . (Pegar para enviar ao github)
 git commit -m "mensagem" (Endereçar e identificar a funcionalidade a partir de uma mensagem)
 git push (Enviar do repositório local para o repositório remoto)
+
+
+
+
+
+
+
+
+
+
+Ut consequat, lectus sit amet sagittis tristique, lectus dui gravida est.
+
+Phasellus semper felis justo, eget sagittis magna commodo sit amet.

@@ -12,6 +12,8 @@ git push (Enviar do repositório local para o repositório remoto)
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing 
 
-Proin tortor ligula, elementum quis nulla non
+Lorem ipsum dolor sit amet, consectetur adipiscing Ut consequat, lectus sit amet sagittis tristique, lectus dui gravida est.
+
+Proin tortor ligula, elementum quis nulla non Phasellus semper felis justo, eget sagittis magna commodo sit amet.
+
